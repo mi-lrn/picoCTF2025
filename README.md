@@ -1,2 +1,2 @@
-# picoCTF2025
-Writeups for some of the challenges from picoCTF 2025
+# picoCTF 2025
+Writeups for challenges from picoCTF 2025 by the 19th place high school team (vuln)
